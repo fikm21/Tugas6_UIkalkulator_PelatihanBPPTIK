@@ -1,0 +1,91 @@
+body { 
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #E5E5E5;
+}
+
+.main{
+    width: 300px;
+    height: 400px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: auto;
+    background-color: #767575;
+    margin-top: 50px;
+}
+
+.submain1{
+    padding: 15px 10px 10px 10px;
+}
+
+.nilai1{
+    width: 270px;
+    height: 55px;
+    border-bottom: 2px solid white;
+    border-color: white;
+    margin: auto;
+    padding-bottom: 5px;
+}
+
+.ketnil1{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: 30px;
+}
+
+.num1{
+    font-size: 50px;
+    color: #FF9C41;
+    text-align: right;
+    float: right;
+}
+
+.nilai2{
+    margin: 5px 0 5px 0;
+    width: 270px;
+    height: 55px;
+    margin: auto;
+}
+
+.submain2{
+    width: 282px;
+    height: 240px;
+    border-radius: 10px;
+    margin: auto;
+    background-color: #F4F4F4;
+    border: 3px solid black;
+    position: relative;
+    left: -4px;
+    padding: 10px 10px 10px 10px;
+}
+
+.submain2 .hasil{
+    width: 70px;
+    padding: 0px 10px 3px 10px;
+    border-bottom: 2px solid #FF9C41;
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+.dechasil{
+    width: 270px;
+    height: 35px;
+    margin: auto;
+    border-bottom: 2px solid #767575;
+    padding-bottom: 3px;
+    margin-top: 15px;
+}
+
+.dechasil .kethasil{
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+}
+
+.dechasil .numhasil{
+    font-size: 35px;
+    float: right;
+    text-align: right;
+}
